@@ -1,10 +1,3 @@
 # gan-mosaics
 
-The models were trained using a Stylegan2-Ada model for two days. You can run the notebook in colab <a href="https://colab.research.google.com/github/zaidalyafeai/gan-mosaics/blob/main/mosaic_demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '100px' ></a>
-You can use this notebook to traversing and interpolation. Note that a big portion of the code is from [Hephyrius](https://github.com/Hephyrius/Stylegan2-Ada-Google-Colab-Starter-Notebook/) impelementation. 
-
-### Generated Images
-![alt text](grid.png)
-### Time Elapse
-![alt text](time-elapse-256.gif)
+　gan_mosaic_demo.ipynb ファイルをクリックするとJupyter notebook形式のファイルが表示されます。先頭にある「Open in Colab」ボタンを押すと、Google Colab上で実行できます。使用環境は、Google Colab が動作すれば、どんなものでも構いません。詳細は、cedro-blogを参照下さい。
